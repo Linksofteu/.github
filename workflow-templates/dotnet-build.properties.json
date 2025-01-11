@@ -1,0 +1,7 @@
+{
+  "name": "LinkSoft CI/CD - Dotnet Build and Test",
+  "description": "Builds and tests a dotnet project",
+  "filePatterns": [
+      "**/*.csproj"
+  ]
+}
