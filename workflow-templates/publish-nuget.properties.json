@@ -1,0 +1,7 @@
+{
+  "name": "LinkSoft Nuget Pack & Publish Pipeline",
+  "description": "Packs and publishes a nuget package based on a git tag",
+  "filePatterns": [
+      "**/*.csproj"
+  ]
+}
