@@ -1,5 +1,4 @@
-# O [LinkSoftu](https://www.linksoft.eu/): Jsme IT firma z Prahy, ale programujeme pro celý svět
+# About [LinkSoft]((https://www.linksoft.eu/)): We are an IT company from Prague, but we program for the whole world.
+Building on years of experience, know-how, and a deep understanding of the needs of our clients. Whether we are developing applications, analyzing processes, or providing external experts, we can handle anything you bring to us.
 
-Stavíme na dlouholetých zkušenostech, know-how a hlubokém porozumění potřeb našich klientů. Ať už vyvíjíme aplikaci, analyzujeme procesy, nebo dodáváme externí odborníky. S čímkoli za námi přijdete, poradíme si.
-
-Jsme česká společnost etablovaná na českém i světovém trhu. Po deseti letech samostatné činnosti jsme se v roce 2018 stali součástí [SUDOP CIT](https://www.sudop-cit.cz/), významného hráče na poli digitální transformace pro evropský trh.  Zakládáme si na osobním přístupu a s našimi zákazníky budujeme dlouhodobá partnerství. Přes 150 talentovaných kolegů u nás pracuje na dodávání kvalitního softwaru na míru a dle individuálních přání s důrazem na postupy a řešení prověřená praxí. 
+We are a Czech company established in the Czech and global markets. After ten years of independent activity, in 2018 we became part of SUDOP CIT, a significant player in the field of digital transformation for the European market. We value a personal approach and build long-term partnerships with our clients. Over 150 talented colleagues work with us to deliver customized high-quality software, tailored to individual preferences, with an emphasis on practices and solutions proven by experience.
